@@ -1,9 +1,4 @@
 # Basic C++ Crash Course
-
-Author: methylDragon  
-Contains a syntax reference for C++  
-I'll be adapting it from the ever amazing Derek Banas: https://www.youtube.com/watch?v=Rub-JsjMhWY
-
 ------
 
 ## Pre-Requisites
@@ -952,4 +947,4 @@ int b = a; // Error: name 'a' is not in scope
 
 ---
 
- [![Yeah! Buy the DRAGON a COFFEE!](../_assets/COFFEE%20BUTTON%20%E3%83%BE(%C2%B0%E2%88%87%C2%B0%5E).png)](https://www.buymeacoffee.com/methylDragon)
+
